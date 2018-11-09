@@ -3,7 +3,7 @@
 osio {
 
   config runtime: 'java', version: '1.8.1'
-
+  echo "CI build"
   ci {
 
 
